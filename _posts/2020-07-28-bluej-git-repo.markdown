@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Blue J-Git-mein erster Fehler"
-date:   2020-07-28 23:47:20 +0200
+date:   2020-07-27 23:47:20 +0200
 categories: 技术小白记录
 author: "Huihui"
 ---
