@@ -19,6 +19,19 @@ permalink: /about/
 
  多一点干货
 
+ Hier is Huihui‘s blog
+
+ come from China
+
+ study in Germany
+
+ love sweets 
+
+ like sharing
+
+ 
+
+
 
 
 
