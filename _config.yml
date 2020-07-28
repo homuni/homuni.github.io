@@ -21,8 +21,7 @@
 title: HOMUNI
 email: huihui.hu@gmx.de
 description: >- # this means to ignore newlines until "baseurl:"
-  welcome to my blog  
-  homuni = home + harmony +hui
+ homuni = home + harmony +hui
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
