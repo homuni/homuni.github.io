@@ -1,7 +1,8 @@
 ---
 layout: page
-title: about 博主
-permalink: /about/
+title: about me
+lang: en
+ref: about
 ---
  生于温州，长于瓯江之畔
 
