@@ -2,8 +2,9 @@
 layout: post
 title:  "公主癌中期自救指南"
 date:   2020-08-03 08:47:20 +0200
-categories: Alltagsleben
+categories: 日常生活
 author: "Huihui"
+lang: de
 ---
 说来惭愧，我虽没有公主命，却也曾染了一身公主病。
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: about me
-lang: en
+lang: cn
 ref: about
-permalink: /about/
+permalink: /关于/
 ---
  生于温州，长于瓯江之畔
 
@@ -21,15 +21,6 @@ permalink: /about/
 
  多一点干货
 
- Hier is Huihui‘s blog
-
- come from China
-
- study in Germany
-
- love sweets 
-
- like sharing
 
  
 

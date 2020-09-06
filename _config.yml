@@ -52,6 +52,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 collections:
-  zh:
+  de:
     output: true
     permalink: /:collection/:title/
