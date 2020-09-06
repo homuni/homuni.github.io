@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "BlueJ的第一个bug"
 date:   2020-07-27 23:47:20 +0200
 categories: 技术小白记录

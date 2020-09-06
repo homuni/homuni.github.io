@@ -1,11 +1,65 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    {% include navi.html %}
-    {{ content }}
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>HOMUNI</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Syne&display=swap');
+    body {background-color: #FFFFF0;}
+    main{
+      float: right;
+      width: 70%;
+    }
+    aside{
+      float:left;
+      padding-top: 20px;
+      width:30%;
+      position: fixed;
+    }
+    .nav{
+      position: fixed; 
+      top: 0;                         
+      padding: 30px;
+      text-align: center;
+      font-size: 35px;
+      float:inline-start ;
+    }
+    ul {
+      list-style-type: none;
+      margin: 0px;
+      overflow: hidden;
+      background-color: transparent;
+      top: 0;
+    }
+    li {
+      float: left;
+    }
+    li a {
+      display: block;
+      color: black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+      li a:hover {
+      background-color:#DEB887;
+     }
+     h1
+     {
+       font-size: 20px;
+     }
+</style>
+</head>
+
+<header>
+  {% include navi.html %}
+</header>
+
+<body>
+{% include body.html %}
+
+</body>
+
 </html>

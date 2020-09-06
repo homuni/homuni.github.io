@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: about me
 lang: en
 ref: about
+permalink: /about/
 ---
  生于温州，长于瓯江之畔
 

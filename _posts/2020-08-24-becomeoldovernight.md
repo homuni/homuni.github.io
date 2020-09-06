@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "一夜古稀"
 date:   2020-08-24 08:47:20 +0200
 categories: 幻想
