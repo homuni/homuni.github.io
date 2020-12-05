@@ -2,7 +2,7 @@
 layout: post
 title:  "BlueJ - Git - Debug"
 date:   2020-07-27 23:47:20 +0200
-categories: learning
+categories: IT amateur
 author: "Huihui"
 lang: en
 ref: bug

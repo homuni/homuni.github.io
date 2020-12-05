@@ -2,7 +2,7 @@
 layout: post
 title:  "瘾"
 date:   2020-07-23 23:47:20 +0200
-categories: 日常生活
+categories: daily life
 author: "Huihui"
 lang: cn
 ---

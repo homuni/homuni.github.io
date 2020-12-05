@@ -2,7 +2,7 @@
 layout: post
 title:  "猫猫国的战争"
 date:   2020-08-19 08:47:20 +0200
-categories: 幻想
+categories: fantasy
 author: "Huihui"
 lang: de
 ---
