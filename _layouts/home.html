@@ -12,11 +12,10 @@ title: Homuni
   <body>
 
    <p> 
-    欢迎来到我的博客！以下是我的博客。
 
     <h3>
         {% for post in site.posts %}
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}<br>{{ }}</a>
           </br>
         {% endfor %}
     </h3>
