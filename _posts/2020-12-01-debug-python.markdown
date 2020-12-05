@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BlueJ - Git - Debug"
+title:  "Python - Git - Debug"
 date:   2020-07-27 23:47:20 +0200
 categories: IT amateur
 author: "Huihui"
