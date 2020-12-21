@@ -1,0 +1,11 @@
+---
+layout: private
+title:  "有点难受"
+date:   2020-11-29 08:47:20 +0200
+categories: daily
+author: "Huihui"
+lang: cn
+---
+
+今天不知道为何，感到十分痛苦。
+总感觉肚子很胀，咽喉肿痛，脚痛，头不痛，非常害怕。
