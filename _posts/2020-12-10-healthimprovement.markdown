@@ -1,5 +1,5 @@
 ---
-layout: private
+layout: post
 title:  "健康提升计划"
 date:   2020-12-10 08:47:20 +0200
 categories: daily

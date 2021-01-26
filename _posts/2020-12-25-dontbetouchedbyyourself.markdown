@@ -1,5 +1,5 @@
 ---
-layout: private
+layout: post
 title:  "警惕自我感动"
 date:   2020-12-25 03:47:20 +0200
 categories: daily
