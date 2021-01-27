@@ -1,6 +1,6 @@
 ---
-layout: private
-title:  "有点难受"
+layout: post
+title:  "今天很痛苦"
 date:   2020-11-29 08:47:20 +0200
 categories: daily
 author: "Huihui"
