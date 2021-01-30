@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pick
 title:  "傻姑娘的回复"
 date:   2020-12-28 03:47:20 +0200
 categories: daily
